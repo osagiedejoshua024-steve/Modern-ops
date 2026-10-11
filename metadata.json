@@ -1,0 +1,6 @@
+{
+  "name": "Strike Ops: Modern Warfare",
+  "description": "Fast-paced 3D tactical FPS featuring first-person shooter gunplay, slide mechanics, tactical sprint, responsive recoil, custom loadouts, dynamic AI combatants, killstreaks, and authentic audio.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
